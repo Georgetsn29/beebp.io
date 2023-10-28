@@ -474,7 +474,7 @@ body {
 
 .business {
     position: relative;
-    padding: 270px 0 140px;
+    padding: 200px 0 140px;
 }
 
 .business__oval {
@@ -521,8 +521,7 @@ body {
 
 .business__item-img {
     max-width: 160px;
-    display: flex;
-    align-items: center;
+    margin: auto;
     overflow: hidden;
     border-radius: 15px 15px 0 0 ;
 }
